@@ -1,3 +1,41 @@
 .footer-powered{
 	display: none!important;
 }
+
+
+.for-login .page-card {
+    background-color: #c957a9 !important;
+    box-shadow: 0 30px 12px rgba(0, 0, 0, 0.1);
+    border-color: #c957a9 !important;
+}
+
+.for-login .page-card .page-card-body .forgot-password-message > * {
+    color: #030b26 !important;
+}
+
+.page-content-wrapper {
+    background-color: #f6def0 !important;
+}
+
+.for-login .page-card .page-card-body .login-divider {
+    color: black !important;
+}
+
+.for-login-with-email-link .page-card {
+    background-color: #c957a9 !important;
+    box-shadow: 0 30px 12px rgba(0, 0, 0, 0.1);
+    border-color: #c957a9 !important;
+}
+
+.for-signup .page-card{
+    background-color: #c957a9 !important;
+    box-shadow: 0 30px 12px rgba(0, 0, 0, 0.1);
+    border-color: #c957a9 !important;
+}
+
+
+@media (min-width: 576px) {
+    body {
+      background-color: #f6def0 !important;
+    }
+}
